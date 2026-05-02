@@ -1,0 +1,8 @@
+langchain
+langchain-core
+langchain-google-genai
+langchain-groq
+langchain-protocol
+langchain-text-splitters
+python-dotenv
+streamlit
