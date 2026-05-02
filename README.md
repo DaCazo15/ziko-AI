@@ -109,7 +109,7 @@ GROQ_API_KEY = "tu_clave_aqui"
 📦 LangChain-LangGraph
 ├── main.py          # App principal
 ├── requirements.txt     # Dependencias
-├── .env                 # Variables de entorno (no subir a GitHub)
+├── secrets.toml                 # Variables de entorno (no subir a GitHub)
 ├── .gitignore           # Ignorar .env y venv
 └── README.md
 ```
